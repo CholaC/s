@@ -8,7 +8,7 @@ Python - PyGame and Random Modules
 
 Elements:
 Sound - atmospheric music developed from scratch (.ogg and .wav)
-TileArt - 2D images - memes and
+TileArt - 2D images - memes
 
 Dynamic:
 Memes - surprise elements when you press m
@@ -40,7 +40,7 @@ Constraints
 - Time:
   Team Availability
   - productivity hours were variable
-  Game Functionality
+- Game Functionality:
   - Win not explicitly defined
   - Quit not implemented
   - Flow and instructions not narrated
